@@ -3,8 +3,8 @@
 - 👋 I'm a software engineer
 - 🏠 I live in Yemen - Mukalla.
 - 🌱 I’m currently learning.
-- 💬 Ask me about Html,Css,JavaScript,React js,Node js,Express js,Nextjs
-- 📫 How to reach me: Email=> hamzaomarblala@gmail.come
+- 💬 Ask me about Html,Css,JavaScript,React js,Node js,Express js,Nextjs.
+- 📫 How to reach me: Email=> hamzaomarblala@gmail.come.
 
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=HamzaBlala49&count_private=true&show_icons=true&hide_title=true" />
