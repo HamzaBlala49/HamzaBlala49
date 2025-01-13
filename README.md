@@ -9,10 +9,9 @@
 <hr/>
 <!-- GitHub Stats -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=HamzaBlala49&count_private=true&show_icons=true&hide_title=true" 
+  src="https://github-readme-stats.vercel.app/api?refresh=1&username=HamzaBlala49&count_private=true&show_icons=true&hide_title=true" 
   alt="GitHub Stats" 
 />
-
 <!-- GitHub Trophies -->
 <img 
   src="https://github-profile-trophy.vercel.app/?username=HamzaBlala49&theme=flat&no-frame=true&margin-w=30" 
