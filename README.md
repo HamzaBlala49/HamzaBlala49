@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/NAME-Hamza_Omar_Balala-39FF14?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/NAME-Hamza_Balala-39FF14?style=for-the-badge&labelColor=0d1117"/>
 <br/>
 <img src="https://img.shields.io/badge/FROM-Yemen,_Mukalla-39FF14?style=for-the-badge&labelColor=0d1117"/>
 <br/>
